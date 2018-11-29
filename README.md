@@ -6,6 +6,8 @@
 <br>
 &nbsp;&nbsp;2.  [프로젝트 팀원](#project_member)<br>
 <br>
+&nbsp;&nbsp;3.  [프로젝트 라이선스](#project_license)<br>
+<br>
 
 ---
 
@@ -28,3 +30,11 @@
 | 정은지 |    팀장    |   디자인 구상 및 카드뉴스 제작  |
 | 최은철 |    팀원    |   디자인 구상 및 카드뉴스 제작  |
 | 최하은 | github관리 |   디자인 구상 및 카드뉴스 제작  |
+
+---
+
+## <div id ="project_license"> 3. 프로젝트 라이선스</div>
+
+배포 라이선스 :
+
+---
