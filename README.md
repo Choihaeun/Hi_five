@@ -19,5 +19,5 @@
 
 ---
 
-## <div id ="project_member"> 1. 프로젝트 팀원</div>
+## <div id ="project_member"> 2. 프로젝트 팀원</div>
 
