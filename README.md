@@ -2,9 +2,9 @@
 
 ## 목차 
 
-&nbsp;&nbsp;1.  [프로젝트 주제 소개](#about_project)<br>
+&nbsp;&nbsp;1. [프로젝트 주제 소개](#about_project)<br>
 <br>
-&nbsp;&nbsp;2.  [프로젝트 팀원](#project_member)<br>
+&nbsp;&nbsp;2. [프로젝트 팀원](#project_member)<br>
 <br>
 ---
 
