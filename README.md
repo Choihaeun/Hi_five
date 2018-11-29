@@ -4,8 +4,8 @@
 
 &nbsp;&nbsp;1.  [프로젝트 주제 소개](#about_project)<br>
 <br>
-
-2. 
+&nbsp;&nbsp;2.  [프로젝트 팀원](#project_member)<br>
+<br>
 ---
 
 ## <div id ="about_project"> 1. 프로젝트 주제 소개</div>
@@ -17,3 +17,6 @@
 본 프로젝트는 대학교 오픈소스 프로젝트의 일환으로 진행된 프로젝트 중 하나입니다.
 
 ---
+
+## <div id ="project_member"> 1. 프로젝트 팀원</div>
+
