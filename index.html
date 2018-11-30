@@ -6,16 +6,26 @@
 -->
 <html>
 	<head>
-		<title>Hielo by TEMPLATED</title>
+		<title>High Five</title>
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1" />
 		<link rel="stylesheet" href="assets/css/main.css" />
+		<script>
+			function winOpen(url){
+				myWin = window.open(url, "new", "width=600, height=500, scrollbars=no, menubar=no, toolbar=no, location=no, resizable=no");
+				myWin.focus();
+			}
+			function winOpen2(url){
+				myWin2 = window.open(url, "new");
+				myWin2.focus();
+			}
+		</script>
 	</head>
 	<body>
 
 		<!-- Header -->
 			<header id="header" class="alt">
-				<div class="logo"><a href="index.html">Hielo <span>by TEMPLATED</span></a></div>
+				<div class="logo"><a href="index.html">cardnews <span>by HIGHFIVE</span></a></div>
 				<a href="#menu">Menu</a>
 			</header>
 
@@ -23,22 +33,39 @@
 			<nav id="menu">
 				<ul class="links">
 					<li><a href="index.html">Home</a></li>
-					<li><a href="generic.html">Generic</a></li>
-					<li><a href="elements.html">Elements</a></li>
+					<li><a href="news01.html">news01</a></li>
+					<li><a href="news02.html">news02</a></li>
+					<li><a href="news03.html">news03</a></li>
+					<li><a href="news04.html">news04</a></li>
+					<li><a href="news05.html">news05</a></li>
+					<li><a href="news06.html">news06</a></li>
+					<li><a href="license.html">LICENSE</a></li>
+
+
+					<!-- <li><a href="elements.html">Elements</a></li> -->
 				</ul>
 			</nav>
 
 		<!-- Banner -->
 			<section class="banner full">
 				<article>
-					<img src="images/slide01.jpg" alt="" />
+					<img src="images/suhui2.jpg" alt="" />
 					<div class="inner">
 						<header>
-							<p>A free responsive web site template by <a href="https://templated.co">TEMPLATED</a></p>
-							<h2>Hielo</h2>
+							<p>HIVEFIVE cardnews</p>
+							<h2>HIGH FIVE</h2>
 						</header>
 					</div>
 				</article>
+        <article>
+          <img src="images/slide01.jpg"  alt="" />
+          <div class="inner">
+            <header>
+              <p>A free responsive web site template by <a href="https://templated.co">TEMPLATED</a></p>
+              <h2>Hielo</h2>
+            </header>
+          </div>
+        </article>
 				<article>
 					<img src="images/slide02.jpg" alt="" />
 					<div class="inner">
@@ -94,7 +121,6 @@
 									</header>
 									<p> Cras aliquet urna ut sapien tincidunt, quis malesuada elit facilisis. Vestibulum sit amet tortor velit. Nam elementum nibh a libero pharetra elementum. Maecenas feugiat ex purus, quis volutpat lacus placerat malesuada.</p>
 									<footer class="align-center">
-										<a href="#" class="button alt">Learn More</a>
 									</footer>
 								</div>
 							</div>
@@ -112,12 +138,13 @@
 									</header>
 									<p> Cras aliquet urna ut sapien tincidunt, quis malesuada elit facilisis. Vestibulum sit amet tortor velit. Nam elementum nibh a libero pharetra elementum. Maecenas feugiat ex purus, quis volutpat lacus placerat malesuada.</p>
 									<footer class="align-center">
-										<a href="#" class="button alt">Learn More</a>
+                    <ul class="links">
+										<button onclick = "location.href='license.html'">License</button>
+                    </ul>
 									</footer>
 								</div>
 							</div>
 						</div>
-
 					</div>
 				</div>
 			</section>
@@ -133,42 +160,47 @@
 			</section>
 
 		<!-- Three -->
-			<section id="three" class="wrapper style2">
+      <section id="three" class="wrapper style2">
 				<div class="inner">
-					<header class="align-center">
-						<p class="special">Nam vel ante sit amet libero scelerisque facilisis eleifend vitae urna</p>
-						<h2>Morbi maximus justo</h2>
-					</header>
 					<div class="gallery">
 						<div>
 							<div class="image fit">
-								<a href="#"><img src="images/pic01.jpg" alt="" /></a>
+								<a href ="news01.html"> <img src="images/pic01.jpg" alt="" /></a>
 							</div>
 						</div>
 						<div>
 							<div class="image fit">
-								<a href="#"><img src="images/pic02.jpg" alt="" /></a>
+								<a href ="news02.html"> <img src="images/pic02.jpg" alt="" /></a>
 							</div>
 						</div>
 						<div>
 							<div class="image fit">
-								<a href="#"><img src="images/pic03.jpg" alt="" /></a>
+								<a href ="news03.html"><img src="images/pic03.jpg" alt="" /></a>
 							</div>
 						</div>
 						<div>
 							<div class="image fit">
-								<a href="#"><img src="images/pic04.jpg" alt="" /></a>
+								<a href ="news04.html"><img src="images/pic03.jpg" alt="" /></a>
+							</div>
+						</div>
+						<div>
+							<div class="image fit">
+								<a href ="news05.html"><img src="images/lion.jpg" alt="" /></a>
+							</div>
+						</div>
+						<div>
+							<div class="image fit">
+								<a href ="news06.html"><img src="images/sponge.png" alt="" /></a>
 							</div>
 						</div>
 					</div>
 				</div>
 			</section>
 
-
 		<!-- Footer -->
 			<footer id="footer">
 				<div class="container">
-					<ul class="icons">
+					<ul class="links, icons">
 						<li><a href="#" class="icon fa-twitter"><span class="label">Twitter</span></a></li>
 						<li><a href="#" class="icon fa-facebook"><span class="label">Facebook</span></a></li>
 						<li><a href="#" class="icon fa-instagram"><span class="label">Instagram</span></a></li>
