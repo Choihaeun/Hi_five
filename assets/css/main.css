@@ -1634,8 +1634,9 @@
 	}
 
 	body, input, select, textarea {
-		font-family: "Poppins", 나눔스퀘어;
-		/* sans-serif; */
+		font-family: 'Jeju Gothic', sans-serif;
+		/* font-family: "Poppins", 나눔스퀘어;
+		/* sans-serif; */ */
 		font-weight: 300;
 		font-size: 1rem;
 		line-height: 1.65;
@@ -1735,8 +1736,9 @@
 	code {
 		border-radius: 2px;
 		border: solid 1px;
-		font-family: "Courier New", 나눔스퀘어;
-		/* monospace; */
+		font-family: 'Jeju Gothic', sans-serif;
+		/* font-family: "Courier New", 나눔스퀘어;
+		/* monospace; */ */
 		font-size: 0.9rem;
 		margin: 0 0.25rem;
 		padding: 0.25rem 0.65rem;
@@ -1744,8 +1746,9 @@
 
 	pre {
 		-webkit-overflow-scrolling: touch;
-		font-family: "Courier New", 나눔스퀘어;
-		/* monospace; */
+		font-family: 'Jeju Gothic', sans-serif;
+		/* font-family: "Courier New", 나눔스퀘어;
+		/* monospace; */ */
 		font-size: 0.9rem;
 		margin: 0 0 2rem 0;
 	}
@@ -3776,7 +3779,8 @@
 					content: "";
 					-moz-osx-font-smoothing: grayscale;
 					-webkit-font-smoothing: antialiased;
-					font-family: 나눔스퀘어;
+					font-family: 'Jeju Gothic', sans-serif;
+					/* font-family: 나눔스퀘어; */
 					font-style: normal;
 					font-weight: normal;
 					text-transform: none !important;
@@ -3957,7 +3961,7 @@
 			#menu .close:before {
 				-moz-osx-font-smoothing: grayscale;
 				-webkit-font-smoothing: antialiased;
-				font-family: 나눔스퀘어;
+				font-family: 'Jeju Gothic', sans-serif;
 				/* FontAwesome; */
 				font-style: normal;
 				font-weight: normal;
