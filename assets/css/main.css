@@ -1634,8 +1634,8 @@
 	}
 
 	body, input, select, textarea {
-		 font-family: "Poppins", sans-serif;
-		 font-weight: 300;
+		font-family: "Poppins", sans-serif;
+		font-weight: 300;
 		font-size: 1rem;
 		line-height: 1.65;
 	}
@@ -1734,7 +1734,7 @@
 	code {
 		border-radius: 2px;
 		border: solid 1px;
-	  font-family: "Courier New", monospace;
+		font-family: "Courier New", monospace;
 		font-size: 0.9rem;
 		margin: 0 0.25rem;
 		padding: 0.25rem 0.65rem;
@@ -3099,7 +3099,7 @@
 		.wrapper.style3 {
 			background-color: #000;
 			color: #bfbfbf;
-			background-image: url(../../images/lion.jpg);
+			background-image: url(../../images/bg.jpg);
 			background-size: cover;
 			background-attachment: fixed;
 			background-position: center;
@@ -3773,8 +3773,7 @@
 					content: "";
 					-moz-osx-font-smoothing: grayscale;
 					-webkit-font-smoothing: antialiased;
-					font-family: 'Jeju Gothic', sans-serif;
-					/* font-family:FontAwesome; */
+					font-family: FontAwesome;
 					font-style: normal;
 					font-weight: normal;
 					text-transform: none !important;
@@ -3955,7 +3954,7 @@
 			#menu .close:before {
 				-moz-osx-font-smoothing: grayscale;
 				-webkit-font-smoothing: antialiased;
-				font-family:  FontAwesome;
+				font-family: FontAwesome;
 				font-style: normal;
 				font-weight: normal;
 				text-transform: none !important;
