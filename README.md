@@ -47,10 +47,10 @@
 1. [TEMPLATED](https://github.com/Choihaeun/Hi_five/blob/master/Library_We_Use.md#1templated)
 
 
-2. Jssor
+2. [jQuery](https://github.com/Choihaeun/Hi_five/blob/master/Library_We_Use.md#2jQuery)
 
   
-3. jQuery
+3. SlideJS
 
 
 4. RRSSB
