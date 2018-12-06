@@ -50,9 +50,9 @@
 2. [jQuery](https://github.com/Choihaeun/Hi_five/blob/master/Library_We_Use.md#2-jquery)
 
   
-3. SlideJS
+3. [SlideJS](https://github.com/Choihaeun/Hi_five/blob/master/Library_We_Use.md#3-slidesjs)
 
 
-4. RRSSB
+4. [RRSSB]
 
 ---
