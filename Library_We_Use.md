@@ -6,13 +6,13 @@
 
 -----
 
-## 1. HTML5 UP
+## 1. TEMPLETED
 
 사이트를 구현할 때 쓴 라이브러리
 
-* 라이선스 : [CCA License](https://github.com/choihaeun/Hi_five/Library_License/MIT_License/jQuery.md)
+* 라이선스 : [CCA License](https://github.com/Choihaeun/Hi_five/blob/master/Library_License/CCA 3.0 License/templeted.md)
 
-* 참고 사이트 : [HTML5 UP](https://templated.co/)
+* 참고 사이트 : [TEMPLETED](https://templated.co/)
 
 <p align ="center"> 참고 사이트 화면 </p>
 <p align="center">
