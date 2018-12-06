@@ -10,7 +10,7 @@
 
 사이트를 구현할 때 쓴 라이브러리
 
-* 라이선스 : [CCA License](https://github.com/Choihaeun/Hi_five/blob/master/Library_License/CCA 3.0 License/templted.md)
+* 라이선스 : [CCA License](https://github.com/Choihaeun/Hi_five/blob/master/Library_License/CCA%203.0%20License/templated.md)
 
 * 참고 사이트 : [TEMPLATED](https://templated.co/)
 
