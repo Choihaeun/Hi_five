@@ -53,6 +53,6 @@
 3. [SlideJS](https://github.com/Choihaeun/Hi_five/blob/master/Library_We_Use.md#3-slidesjs)
 
 
-4. [RRSSB]
+4. [RRSSB](https://github.com/Choihaeun/Hi_five/blob/master/Library_License/MIT_License/RRSSB.md)
 
 ---
