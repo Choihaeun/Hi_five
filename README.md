@@ -44,7 +44,7 @@
 
 ## <div id ="use_library"> 4. 사용 라이브러리</div>
 
-1. HTML5 UP
+1. [TEMPLATED](https://github.com/Choihaeun/Hi_five/blob/master/Library_We_Use.md#1templated)
 
 
 2. Jssor
