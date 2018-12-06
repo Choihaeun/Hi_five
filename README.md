@@ -45,22 +45,14 @@
 ## <div id ="use_library"> 4. 사용 라이브러리</div>
 
 1. HTML5 UP
-  http://html5up.net
-  
-  -License : CCA 3.0 License
+
 
 2. Jssor
-  https://www.jssor.com
 
-  - License : MIT License
   
 3. jQuery
-  https://jquery.com
 
-  - License : MIT License
 
 4. RRSSB
-  https://rrssb.netlify.com
 
-  - License : MIT License
 ---
