@@ -43,7 +43,7 @@ HTML 요소를 선택하고, CSS 스타일을 변경하고 자바스크립트를
 
 ## 3. SlidesJS
 
-카드뉴스 슬라이드 기능을 구현할 때 쓴 라이브러리 입니다 
+카드뉴스 슬라이드 기능을 구현할 때 사용한 라이브러리 입니다 
 
 * 라이선스 : [Apache License, Version 2.0](https://github.com/Choihaeun/Hi_five/blob/master/Library_License/Apache_License/SlideJS.md)
 
@@ -57,6 +57,26 @@ HTML 요소를 선택하고, CSS 스타일을 변경하고 자바스크립트를
 <p align ="center"> 실제 구현한 화면(추후추가) </p>
 <p align="center">
 <img src = "https://github.com/Choihaeun/Hi_five/blob/master/use/slideJS.PNG">
+<p/>
+
+-------
+
+## 4. RRSSB
+
+카드뉴스를 타 플랫폼에 공유하는 기능을 구현할 때 사용한 라이브러리 입니다 
+
+* 라이선스 : [The MIT License](https://github.com/Choihaeun/Hi_five/blob/master/Library_License/MIT_License/RRSSB.md)
+
+* 참고 사이트 : [RRSSB](https://rrssb.netlify.com)
+
+<p align ="center"> 참고 사이트 화면 </p>
+<p align="center">
+<img src = "https://github.com/Choihaeun/Hi_five/blob/master/use/rrssb.PNG">
+<p/>
+
+<p align ="center"> 실제 구현한 화면(추후추가) </p>
+<p align="center">
+<img src = "https://github.com/Choihaeun/Hi_five/blob/master/use/rrssb.PNG">
 <p/>
 
 -------
