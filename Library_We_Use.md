@@ -16,10 +16,10 @@
 
 <p align ="center"> 참고 사이트 화면 </p>
 <p align="center">
-<img src = "https://github.com/choihaeun/Hi_five/images/use/temp.png">
+<img src = "https://github.com/choihaeun/Hi_five/images/use/temp.PNG">
 <p/>
 
 <p align ="center"> 실제 구현한 화면 </p>
 <p align="center">
-<img src = "https://github.com/choihaeun/Hi_five/images/use/highfive.png">
+<img src = "https://github.com/Choihaeun/Hi_five/blob/master/use/highfive.PNG">
 <p/>
