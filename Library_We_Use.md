@@ -10,7 +10,7 @@
 
 사이트를 구현할 때 쓴 라이브러리
 
-* 라이선스 : [CCA License](https://github.com/choihaeun/Hi_five/Library_License/MIT_License/jQuery.md)
+* 라이선스 : [CCA 3.0 License](https://github.com/choihaeun/Hi_five/Library_License/MIT_License/jQuery.md)
 
 * 참고 사이트 : [TEMPLATED](https://templated.co/)
 
