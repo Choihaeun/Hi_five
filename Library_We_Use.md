@@ -6,13 +6,13 @@
 
 -----
 
-## 1. TEMPLETED
+## 1. TEMPLATAD
 
 사이트를 구현할 때 쓴 라이브러리
 
-* 라이선스 : [CCA License](https://github.com/Choihaeun/Hi_five/blob/master/Library_License/CCA 3.0 License/templeted.md)
+* 라이선스 : [CCA License](https://github.com/Choihaeun/Hi_five/blob/master/Library_License/CCA 3.0 License/templted.md)
 
-* 참고 사이트 : [TEMPLETED](https://templated.co/)
+* 참고 사이트 : [TEMPLATED](https://templated.co/)
 
 <p align ="center"> 참고 사이트 화면 </p>
 <p align="center">
