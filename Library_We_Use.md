@@ -45,7 +45,7 @@ HTML 요소를 선택하고, CSS 스타일을 변경하고 자바스크립트를
 
 카드뉴스 슬라이드 기능을 구현할 때 사용한 라이브러리 입니다 
 
-* 라이선스 : [Apache License, Version 2.0](https://github.com/Choihaeun/Hi_five/blob/master/Library_License/Apache_License/SlideJS.md)
+* 라이선스 : [Apache License, Version 2.0](https://github.com/Choihaeun/Hi_five/blob/master/Library_License/Apache_License/SlidesJS.md)
 
 * 참고 사이트 : [SlidesJS site](http://slidesjs.com)
 
