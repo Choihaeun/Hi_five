@@ -76,7 +76,7 @@ HTML 요소를 선택하고, CSS 스타일을 변경하고 자바스크립트를
 
 <p align ="center"> 실제 구현한 화면 </p>
 <p align="center">
-<img src = "https://github.com/Choihaeun/Hi_five/blob/master/use/rrssb.PNG">
+<img src = "https://github.com/Choihaeun/Hi_five/blob/master/use/rrssbu.PNG">
 <p/>
 
 -------
