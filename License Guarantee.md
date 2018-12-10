@@ -8,6 +8,7 @@ SW Name : **High Five**
 
 이 소프트웨어를 개발하는데 사용된 오픈소스의 라이선스 목록은 다음과 같습니다.
 
+- **CCA 3.0 License**
 - **MIT License**
 - **Apache License, Version 2.0**
 
